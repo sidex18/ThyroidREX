@@ -19,8 +19,5 @@ Run Machine Learning on said file
 
 
 
-**Reference** 
-
-
-
+<h2>Reference</h2>
 Sabouri, M., & Ahamed, S. (n.d.). Thyroidiomics: An Automated Pipeline for Segmentation and  Classification of Thyroid Pathologies from Scintigraphy Images.
