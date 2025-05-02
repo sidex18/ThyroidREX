@@ -16,5 +16,11 @@ A resulting features.xlsx is created in the output folder
 Based on the output folder, you should manually add class labels into the spreadsheet and delete all configuration columns. Then name it as features_with_labels.xlsx and put it under input folder.
 Run Machine Learning on said file
 
-**Reference**
+
+
+
+**Reference** 
+
+
+
 Sabouri, M., & Ahamed, S. (n.d.). Thyroidiomics: An Automated Pipeline for Segmentation and  Classification of Thyroid Pathologies from Scintigraphy Images.
